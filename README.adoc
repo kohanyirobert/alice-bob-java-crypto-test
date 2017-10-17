@@ -1,0 +1,9 @@
+= alice-bob-java-crypto-test
+
+Playing with Java's crypto capabilities.
+
+== Running
+
+* Generate keys, certificates, etc. with `generate.{sh,cmd}`.
+* Execute `mvn clean package`.
+* Start the program with `java -cp <jar-file> Main`.
